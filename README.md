@@ -20,13 +20,13 @@
 Check out the help option for available options:
 
 `blc --help`
-# or
+ or
 `blc -h`
 
 A typical site-wide check might look like:
 
 `blc --single http://yoursite.com`
-# or
+ or
 `blc --multi --docsite`
 
 ### Future Considerations ###
