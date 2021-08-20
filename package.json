@@ -1,0 +1,23 @@
+{
+  "name": "linkchecker",
+  "version": "0.1.0",
+  "description": "Broken link checker project",
+  "bin": {
+    "blc": "./main.js"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Devonte Whitely",
+  "license": "MIT",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "chalk": "^1.1.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "broken-link-checker": "^0.7.8"
+  }
+}
